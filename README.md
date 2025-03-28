@@ -1,5 +1,9 @@
 # AdditionalExperiments
 
+1) Grid Search
+2) Added Baseline Method [1] and new netrics
+3) Synthetic Experiments extension and new metrics
+
 ## Grid Search of proposed method on MNIST sequences
 ![Some title here](GS-MNIST.png)
 
