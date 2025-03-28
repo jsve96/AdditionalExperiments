@@ -21,3 +21,8 @@
 
 ## Additional Synthetic Experiments
 
+### 1) Normal Distribution (New Metrics)
+![Results1](NormalSyn1.png)
+![Results1](NormalSyn2.png)
+
+
