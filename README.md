@@ -26,3 +26,10 @@
 ![Results1](NormalSyn2.png)
 
 
+
+### 3) Exponential Distribution
+![Results3](Exp1Syn.png)
+![Results3](Exp2Syn.png)
+
+### 4) Beta Distribution
+![Results3](BetaSyn.png)
