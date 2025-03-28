@@ -25,7 +25,9 @@
 ![Results1](NormalSyn1.png)
 ![Results1](NormalSyn2.png)
 
-
+### 2) Change in variance of data
+![Results1](Var1Syn.png)
+![Results1](Var2Syn.png)
 
 ### 3) Exponential Distribution
 ![Results3](Exp1Syn.png)
