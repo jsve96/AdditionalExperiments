@@ -1,8 +1,8 @@
 # AdditionalExperiments
 
-1) Grid Search
-2) Added Baseline Method [1] and new netrics
-3) Synthetic Experiments extension and new metrics
+1) [Grid Search](#grid-search-of-proposed-method-on-mnist-sequences)
+2) [Additional Baseline and Metrics](#additional-baseline)
+3) [Synthetic Experiments & Metrics](#additional-synthetic-experiments)
 
 ## Grid Search of proposed method on MNIST sequences
 ![Some title here](GS-MNIST.png)
@@ -10,7 +10,8 @@
 ## Grid Search of proposed method on Occupancy dataset
 ![Some title here](GS-Occupnacy.png)
 
-## Inclusion of [1] Cheng, Kevin C., et al. "Optimal transport based change point detection and time series segment clustering." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+## Additional Baseline
+Inclusion of [1] Cheng, Kevin C., et al. "Optimal transport based change point detection and time series segment clustering." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
 ### 1) Occupancy
 ![Results Occupancy](TablesOcc.png)
